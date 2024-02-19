@@ -1,9 +1,10 @@
 ## React MUI Notes
 Document used: https://mui.com/material-ui
+Reference playlist: https://youtube.com/playlist?list=PLC3y8-rFHvwh-K9mDlrrcDywl7CeVL2rO&si=ILTUv9IuA_R0_wf3
 1. How to install react Mui dependencies
 2. Typography->headings, subtitles and body text, gutterBottom
 
-# Inputs
+### Inputs
 3. Button -> different variants, colors, sizes, icons on different sides or normal icon, disable or with links, disableElevation and disableRipple. 
 4. Button Group -> The ButtonGroup component can be used to group related buttons.ifferent variants, colors, sizes.
 5. Toggle Group -> A Toggle Button can be used to group related options.
@@ -43,14 +44,14 @@ Document used: https://mui.com/material-ui
               ->two variants are there: woven and  masonry.     
 16. Navbar ->   The App Bar displays information and actions relating to the current screen.     
 
-# Navigation Components
+### Navigation Components
 17. Links -> The Link component allows you to easily customize anchor elements with your theme colors and typography styles.
 18. Breadcrumbs ->A breadcrumbs is a list of links that help visualize a page's location within a site's hierarchical structure, it allows navigation up to any of the ancestors.
 19. Drawer ->The navigation drawers (or "sidebars") provide ergonomic access to destinations in a site or app functionality such as switching accounts. ->  there are four anchor - left,right,top,bottom 
 20. Speed Dial -> When pressed, a floating action button can display three to six related actions in the form of a Speed Dial.
 21. Bottom Navigation -> The Bottom Navigation bar allows movement between primary destinations in an app.
 
-# Data-Displays Components
+### Data-Displays Components
 22. Avatar ->Avatars are found throughout material design with uses in everything from tables to dialog menus.
             -> There are many different types of Avatar: Image Avatar, Letter Avatar,Sizes,Icon Avatar, Grouped.
 23. List ->Lists are continuous, vertical indexes of text or images.
@@ -61,7 +62,7 @@ Document used: https://mui.com/material-ui
 27. Table ->Tables display sets of data. They can be fully customized.
             ->stickyHeader prop helps to fixed the header.
 
-# FeedBack Components
+### FeedBack Components
 28. Alert -> Alerts display brief messages for the user without interrupting their use of the app.
             ->severity:seriousness, severity shows the seriousness of the Alert it is of four types: error, warning, info, success
             ->There are two types of variants : filled and outlined 
