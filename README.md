@@ -1,5 +1,6 @@
 ## React MUI Notes
 Document used: https://mui.com/material-ui
+
 Reference playlist: https://youtube.com/playlist?list=PLC3y8-rFHvwh-K9mDlrrcDywl7CeVL2rO&si=ILTUv9IuA_R0_wf3
 1. How to install react Mui dependencies
 2. Typography->headings, subtitles and body text, gutterBottom
